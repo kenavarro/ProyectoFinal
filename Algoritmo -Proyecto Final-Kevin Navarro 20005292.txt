@@ -1,0 +1,27 @@
+Algoritmo
+
+Empresa de Seguros TK-U 
+
+-Se le solicita el nombre a la persona
+-la persona ingresa su nombre
+-Se le solicita la edad a la persona
+-la persona ingresa su edad
+-el programa realiza el calculo del costo segun la edad de la persona y lo suma al costo total de cargos.
+-Se le solicita a la persona que confirme si esta casado o no
+-la persona confirma si esta casado o no
+ (dependiendo de su respuesta, en caso que fuese si)
+-Se le solicita la edad del coyuge a la persona
+-la persona ingresa la edad del coyuge
+-el programa realiza el calculo del costo segun la edad del conyuge y lo suma al costo total de cargos.
+-Se le solicita a la persona que confirme si tiene hijos o no
+-(dependiendo de su respuesta, en caso que fuese si)
+-Se le solicita a la persona que confirme la cantidad de hijos que tiene.
+-el programa realiza el calculo del costo segun la cantidad de hijos y lo suma al costo total de cargos.
+-el programa saca en pantalla el nombre de la persona
+-acontinuacion el programa saca en pantalla el costo total de los cargos
+-seguido de esto el programa saca en pantalla el costo final (costo total cargos + costo base)
+
+
+
+  
+  

@@ -1,0 +1,8 @@
+Descripcion del problema -Empresa de Seguros TK-U
+
+¿Cual es el problema?
+
+-El tiempo para realizar la cotizacion de un seguro
+-Cotizaciones se realizan manual
+-Atraso de envio de cotizaciones
+-Perdida de clientes/asegurados  por no recibir a tiempo las  cotizaciones 
